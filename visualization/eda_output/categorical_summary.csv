@@ -1,0 +1,14 @@
+,Mode,Mode Frequency,Unique Values,Missing Values
+ArrivalDateMonth,August,8983,12,0
+Meal,BB       ,62305,4,0
+Country,PRT,30960,166,24
+MarketSegment,Online TA,38748,8,0
+DistributionChannel,TA/TO,68945,5,0
+ReservedRoomType,A               ,62595,8,0
+AssignedRoomType,A               ,57007,9,0
+DepositType,No Deposit     ,66442,3,0
+Agent,          9,31955,224,0
+Company,       NULL,75641,208,0
+CustomerType,Transient,59404,4,0
+ReservationStatus,Check-Out,46228,3,0
+ReservationStatusDate,2015-10-21,1416,864,0
