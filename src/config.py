@@ -1,0 +1,1 @@
+SEED = 245189156252197132 % (2**32) #combination of the 6 team members' ids with modulo to fit max seed value 2^32-1
